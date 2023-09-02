@@ -1,0 +1,9 @@
+@import '~style/colors';
+@import '~style/variables';
+
+.steps {
+  width: $app-container-max-width;
+  display: flex;
+
+  border-bottom: 1px solid $gray-06-color;
+}
